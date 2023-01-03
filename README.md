@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FortunaArthur.FortunaArthur">
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi,+Eu+sou+o+Arthur;Bem+Vindo+ao+meu+GitHub&center=true&size=30">
 </h1>
@@ -13,8 +11,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FortunaArthur&show_icons=true&theme=react&border" />
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortunaArthur&layout=compact&theme=react&border" />
-  
-<img height="295em" src="https://activity-graph.herokuapp.com/graph?username=FortunaArthur&theme=react&border" />
   
 </div>
 
