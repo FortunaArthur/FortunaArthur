@@ -68,8 +68,6 @@ Escrever.writerow(Eu)
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FortunaArthur}/count.svg" /></p> 
 <br></div>
 
-![snake gif](https://github.com/FortunaArthur/FortunaArthur/blob/output/github-contribution-grid-snake.gif)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
 
 
