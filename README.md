@@ -5,7 +5,7 @@
 
 ```python
 import csv 
-Desenvolvedor = ["Nome", "Estudo", "Habilidades", "Ferramentas", "Contatos"]
+Desenvolvedor = ["Nome", "Area_Estudo", "Habilidades", "Ferramentas", "Contatos"]
 Eu = ["Arthur Sanchez Fortuna", ["Ciência da Computação", "Fullstack", "Ciência de Dados"],
      ["Python", "MySQL", "PHP", 'HTML', 'CSS', 'Java', "JavaScript", "Cobol"],
      ["Visual Studio Code", "Jupyter Nootebook", "MySQL Workbench"],
