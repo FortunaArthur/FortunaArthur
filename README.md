@@ -7,8 +7,8 @@
 import csv
 Desenvolvedor = ["Nome", "Area_Estudo", "Habilidades", "Ferramentas", "Contatos"]
 Eu = ["Arthur Sanchez Fortuna", ["Ciência da Computação", "Fullstack", "Ciência de Dados"],
-     ["Python", "MySQL", "PHP", 'HTML', 'CSS', 'Java', "JavaScript", "Cobol"],
-     ["Visual Studio Code", "Jupyter Nootebook", "MySQL Workbench"],
+     ["Python", "SQL", "PHP", 'HTML', 'CSS', 'Java', "JavaScript", "Cobol"],
+     ["Visual Studio Code", "Jupyter Nootebook", "MySQL Workbench", "XAMP"],
      "arthur.trabalho2646@gmail.com"]
 
 with open("arthur.csv", "w", encoding='UTF8') as Euzinho:
