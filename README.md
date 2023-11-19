@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=header&text=FortunaArthur&fontColor=B2D8FF&animation=twinkling"/>
 
 
-<img align="right" width="200" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEyYmQxM2QxNjUyZGY3NGUxNTAxNThhZTZlNzM3ZTJmZTE0MDY2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" width="200" height="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEyYmQxM2QxNjUyZGY3NGUxNTAxNThhZTZlNzM3ZTJmZTE0MDY2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ```py
 
