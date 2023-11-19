@@ -3,18 +3,25 @@
 
 <img align="right" width="200" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEyYmQxM2QxNjUyZGY3NGUxNTAxNThhZTZlNzM3ZTJmZTE0MDY2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-```python
-import csv
-Desenvolvedor = ["Nome", "Area_Estudo", "Habilidades", "Ferramentas", "Contatos"]
-Eu = ["Arthur Sanchez Fortuna", ["Ciência da Computação", "Fullstack", "Ciência de Dados"],
-     ["Python", "SQL", "PHP", 'HTML', 'CSS', 'Java', "JavaScript", "Cobol"],
-     ["Visual Studio Code", "Jupyter Nootebook", "MySQL Workbench", "XAMP"],
-     "arthur.trabalho2646@gmail.com"]
+```py
 
-with open("arthur.csv", "w", encoding='UTF8') as Euzinho:
+import csv
+
+Desenvolvedor = ["Nome", "Area_Estudo", "Linguagens", "Ferramentas", "Contato"]
+
+Nome = "Arthur Sanchez Fortuna"
+Estudo = "Ciência da Computação, Fullstack, Ciência de Dados"
+Linguagens = "Python, SQL, PHP, HTML, CSS, Java, JavaScript, Cobol"
+Ferramentas = "VS Code, Jupyter Nootebook, MySQL Workbench, XAMP"
+Contato = "arthur.trabalho2646@gmail.com"
+
+Eu = [Nome, Estudo, Linguagens, Ferramentas, Contato]
+
+with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
     Escrever = csv.writer(Euzinho)
-Escrever.writerow(Desenvolvedor)
-Escrever.writerow(Eu)
+    Escrever.writerow(Desenvolvedor)
+    Escrever.writerow(Eu)
+
 ```
 
 <div>
