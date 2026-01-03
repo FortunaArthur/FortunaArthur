@@ -34,7 +34,6 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=FortunaArthur&label=Visitas%20no%20perfil&color=0077FF&style=flat)
 ![Repos Públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FortunaArthur&query=public_repos&label=Repositórios%20Públicos&color=blue)
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FortunaArthur&theme=react"/>
 
 
