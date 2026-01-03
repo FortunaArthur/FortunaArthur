@@ -31,6 +31,9 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
 <!-- Contador de Push -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
 
+![Visitas no perfil](https://komarev.com/ghpvc/?username=FortunaArthur&label=Visitas%20no%20perfil&color=0077FF&style=flat)
+
+
 <!-- Jogo da Cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FortunaArthur/FortunaArthur/blob/output/github-contribution-grid-snake-dark.svg" />
