@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=header&text=FortunaArthur&fontColor=B2D8FF&animation=twinkling"/>
 
 <!-- Descrição -->
-```py
+```python
 import csv
 
 Usuario = ["Nome", "Area_Estudo", "Linguagens", "Ferramentas", "Experiencia", "Contato"]
@@ -30,25 +30,10 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
 
 <!-- Contador de Push -->
 <div>
-  <img height="195m" src="https://github-readme-stats.vercel.app/api?username=FortunaArthur&show_icons=true&theme=react&border" />
-
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortunaArthur&layout=compact&theme=react&border" />
-
-  <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=FortunaArthur&show_icons=true&theme=react&border" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortunaArthur&layout=compact&theme=react&border" />
+  <img height="290" src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
 </div>
-
-<!-- Gifs -->
-<div >
-  <img align="right" width="240" height="210" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
-
-  <img align="right" width="200" height="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEyYmQxM2QxNjUyZGY3NGUxNTAxNThhZTZlNzM3ZTJmZTE0MDY2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif">
-</div>
-
-<!-- Contador de visitas -->
-<div align="center">
-<br> <p align="centre"> <b> Contador de Visitas | Counter Visits</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FortunaArthur}/count.svg" /></p>
-<br></div>
 
 <!-- Jogo da Cobrinha -->
 <picture>
