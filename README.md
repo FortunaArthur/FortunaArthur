@@ -7,19 +7,20 @@
 
 import csv
 
-Desenvolvedor = ["Nome", "Area_Estudo", "Linguagens", "Ferramentas", "Contato"]
+Usuario = ["Nome", "Area_Estudo", "Linguagens", "Ferramentas", "Experiencia", "Contato"]
 
 Nome = "Arthur Sanchez Fortuna"
-Estudo = "Ciência da Computação, Fullstack, Ciência de Dados"
-Linguagens = "Python, SQL, PHP, HTML, CSS, Java, JavaScript, Cobol"
-Ferramentas = "VS Code, Jupyter Nootebook, MySQL Workbench, XAMP"
+Estudo = "Ciência da Computação, Fullstack, Ciência de Dados e Machine Learning, Engenharia de Software"
+Linguagens = "Python, SQL, PHP, HTML, CSS, Java, JavaScript, Cobol, TypeScript"
+Ferramentas = "VS Code, Jupyter Nootebook, MySQL Workbench, XAMP, Debeaver, Docker, Grafana, Node"
+Experiencia = "1 Ano como Trainee, atuando como Analista de Sistemas"
 Contato = "arthur.trabalho2646@gmail.com"
 
-Eu = [Nome, Estudo, Linguagens, Ferramentas, Contato]
+Eu = [Nome, Estudo, Linguagens, Ferramentas, Experiencia, Contato]
 
 with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
     Escrever = csv.writer(Euzinho)
-    Escrever.writerow(Desenvolvedor)
+    Escrever.writerow(Usuario)
     Escrever.writerow(Eu)
 
 ```
@@ -83,5 +84,6 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
+
 
 
