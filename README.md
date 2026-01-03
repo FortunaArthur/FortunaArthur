@@ -31,18 +31,6 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
 <!-- Contador de Push -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
 
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=FortunaArthur&show_icons=true&theme=react&cache_seconds=86400"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortunaArthur&layout=compact&theme=react&cache_seconds=86400"
-  />
-</div>
-
-
 <!-- Jogo da Cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FortunaArthur/FortunaArthur/blob/output/github-contribution-grid-snake-dark.svg" />
