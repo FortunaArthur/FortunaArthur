@@ -28,8 +28,15 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
 
 <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1000&pause=600&color=29F729&center=false&vCenter=true&repeat=true&width=450&lines=Hola;BienVenido(a)+a+Mi+GitHub&size=12" alt="Typing SVG" />
 
-<!-- Contador de Push -->
+<!-- Contadores -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
+
+![Visitas no perfil](https://komarev.com/ghpvc/?username=FortunaArthur&label=Visitas%20no%20perfil&color=0077FF&style=flat)
+![Repos Públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FortunaArthur&query=public_repos&label=Repositórios%20Públicos&color=blue)
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FortunaArthur&theme=react"/>
+
 
 <!-- Jogo da Cobrinha -->
 <picture>
