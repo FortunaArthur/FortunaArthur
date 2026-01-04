@@ -22,11 +22,7 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
     Escrever.writerow(Eu)
 ```
 <!-- Salves -->
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1000&pause=400&color=08C0E5&center=false&vCenter=true&width=440&lines=Salve;Bem-Vindo(a)+ao+Meu+GitHub&size=14" alt="Typing SVG" />
-
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1000&pause=500&color=F7873A&center=true&vCenter=true&width=440&lines=Hello+There;Welcome+To+My+GitHub&size=13" alt="Typing SVG" />
-
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1000&pause=600&color=29F729&center=false&vCenter=true&repeat=true&width=450&lines=Hola;BienVenido(a)+a+Mi+GitHub&size=12" alt="Typing SVG" />
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1000&pause=400&color=08C0E5&center=false&vCenter=true&width=440&lines=Salve, Meu nome é Arthur;Bem-Vindo(a)+ao+Meu+GitHub&size=14" alt="Typing SVG" />
 
 <!-- Contadores -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
