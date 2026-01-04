@@ -21,11 +21,6 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
     Escrever.writerow(Usuario)
     Escrever.writerow(Eu)
 ```
-<!-- Salves -->
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1000&pause=400&color=08C0E5&center=false&vCenter=true&width=440&lines=Salve, Meu nome é Arthur;Bem-Vindo(a)+ao+Meu+GitHub&size=14" alt="Typing SVG" />
-
-### 📊 Minhas Estatísticas
-
 <!-- Contadores -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
 
