@@ -16,7 +16,7 @@ Experiencias = "1 Ano como Trainee, atuando como Analista de Sistemas"
 Conhecimentos = "ETL, ServiceNow, BrTrix"
 Contatos = "arthur.trabalho2646@gmail.com"
 
-meusDados = [Nome, Estudos, Linguagens, Ferramentas, Experiencias, Conhecimentos, Contatos]
+MeusDados = [Nome, Estudos, Linguagens, Ferramentas, Experiencias, Conhecimentos, Contatos]
 
 # Escrever CSV
 with open("Arthur_info.csv", "w", encoding='utf-8', newline='') as Arquivo:
@@ -43,6 +43,7 @@ print("✅ CSV criado com sucesso: arthur_info.csv")
 
 <!-- Roda pé -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
+
 
 
 
