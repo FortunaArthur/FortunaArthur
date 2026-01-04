@@ -1,25 +1,30 @@
 <!-- Logo da parte de cima -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=header&text=FortunaArthur&fontColor=B2D8FF&animation=twinkling"/>
 
-<!-- Descrição -->
-```python
+```Python
 import csv
 
-Usuario = ["Nome", "Area_Estudo", "Linguagens", "Ferramentas", "Experiencia", "Contato"]
+# Cabeçalhos
+Cabecalhos = ["Nome", "Estudos", "Linguagens", "Ferramentas", "Experiencias", "Conhecimentos", "Contatos"]
 
+# Dados
 Nome = "Arthur Sanchez Fortuna"
-Estudo = "Ciência da Computação, Fullstack, Ciência de Dados e Machine Learning, Engenharia de Software"
+Estudos = "Ciência da Computação, Fullstack, Ciência de Dados e Machine Learning, Engenharia de Software"
 Linguagens = "Python, SQL, PHP, HTML, CSS, Java, JavaScript, Cobol, TypeScript"
-Ferramentas = "VS Code, Jupyter Nootebook, MySQL Workbench, XAMP, Debeaver, Docker, Grafana, Node"
-Experiencia = "1 Ano como Trainee, atuando como Analista de Sistemas"
-Contato = "arthur.trabalho2646@gmail.com"
+Ferramentas = "VS Code, Jupyter Notebook, MySQL Workbench, XAMPP, DBeaver, Docker, Grafana, Node"
+Experiencias = "1 Ano como Trainee, atuando como Analista de Sistemas"
+Conhecimentos = "ETL, ServiceNow, BrTrix"
+Contatos = "arthur.trabalho2646@gmail.com"
 
-Eu = [Nome, Estudo, Linguagens, Ferramentas, Experiencia, Contato]
+meusDados = [Nome, Estudos, Linguagens, Ferramentas, Experiencias, Conhecimentos, Contatos]
 
-with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
-    Escrever = csv.writer(Euzinho)
-    Escrever.writerow(Usuario)
-    Escrever.writerow(Eu)
+# Escrever CSV
+with open("Arthur_info.csv", "w", encoding='utf-8', newline='') as Arquivo:
+  Escritor = csv.writer(Arquivo)
+  Escritor.writerow(Cabecalhos)
+  Escritor.writerow(MeusDados)
+
+print("✅ CSV criado com sucesso: arthur_info.csv")
 ```
 <!-- Contadores -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
