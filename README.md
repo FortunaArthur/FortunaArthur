@@ -24,7 +24,7 @@ with open("Arthur_info.csv", "w", encoding='utf-8', newline='') as Arquivo:
   Escritor.writerow(Cabecalhos)
   Escritor.writerow(MeusDados)
 
-print("✅ CSV criado com sucesso: arthur_info.csv")
+print("✅ CSV criado com sucesso: Arthur_info.csv")
 ```
 <!-- Contadores -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
@@ -43,6 +43,7 @@ print("✅ CSV criado com sucesso: arthur_info.csv")
 
 <!-- Roda pé -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
+
 
 
 
