@@ -27,11 +27,10 @@ with open("arthur_info.csv", "w", encoding='UTF8', newline='') as Euzinho:
 <!-- Contadores -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FortunaArthur&theme=react"/>
 
-
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=FortunaArthur&label=Visitas%20no%20perfil&color=0077FF&style=flat)
 ![Repos Públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FortunaArthur&query=public_repos&label=Repositórios%20Públicos&color=blue)
 
-<img src="https://github-readme-stats.vercel.app/api?username=FortunaArthur&show_icons=true&theme=react&card_width=495"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FortunaArthur&theme=react"/>
 
 <!-- Jogo da Cobrinha -->
 <picture>
