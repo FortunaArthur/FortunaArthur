@@ -32,8 +32,6 @@ print("✅ CSV criado com sucesso: Arthur_info.csv")
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=FortunaArthur&label=Visitas%20no%20perfil&color=0077FF&style=flat)
 ![Repos Públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FortunaArthur&query=public_repos&label=Repositórios%20Públicos&color=blue)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FortunaArthur&theme=react"/>
-
 <!-- Jogo da Cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FortunaArthur/FortunaArthur/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -43,6 +41,7 @@ print("✅ CSV criado com sucesso: Arthur_info.csv")
 
 <!-- Roda pé -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
+
 
 
 
